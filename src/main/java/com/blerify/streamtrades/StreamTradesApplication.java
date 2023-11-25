@@ -9,5 +9,4 @@ public class StreamTradesApplication {
     public static void main(String[] args) {
         SpringApplication.run(StreamTradesApplication.class, args);
     }
-
 }
