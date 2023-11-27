@@ -26,3 +26,11 @@
   "M": true
 }
 ```
+
+## Discuss
+
+- How would you keep a system running once a database starts rejecting new connections?
+- What are the risks of using containers?
+- Is it possible to deploy any component on Kubernetes? What components are not recommended
+to deploy on Kubernetes?
+- When would you use java and when golang?
